@@ -1,5 +1,5 @@
 # Read Me
-## Project Description
+## Repository Description
 ## Project 1
 ## Project 2
 ## Project 3
